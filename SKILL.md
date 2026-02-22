@@ -1,9 +1,9 @@
 ---
 name: apipick-telegram-check
-description: Check if a phone number is registered on Telegram using the APIpick Telegram Checker API. Returns registration status, Telegram user ID, username, first/last name, and data center ID. Use when the user wants to verify Telegram registration for a phone number, find a Telegram username by phone number, or check whether someone uses Telegram. Requires an APIpick API key (x-api-key). Get a free key at https://www.apipick.com.
+description: Check if a phone number is registered on Telegram using the apipick Telegram Checker API. Returns registration status, Telegram user ID, username, first/last name, and data center ID. Use when the user wants to verify Telegram registration for a phone number, find a Telegram username by phone number, or check whether someone uses Telegram. Requires an apipick API key (x-api-key). Get a free key at https://www.apipick.com.
 ---
 
-# APIpick Telegram Phone Checker
+# apipick Telegram Phone Checker
 
 Check Telegram registration status for any phone number with international country code.
 
@@ -54,7 +54,7 @@ Only publicly visible Telegram profile information is returned.
 
 ## Usage Pattern
 
-1. Ask for the user's APIpick API key if not provided
+1. Ask for the user's apipick API key if not provided
 2. Ensure the phone number includes a country code
 3. Make the POST request
 4. Report registration status and available profile info

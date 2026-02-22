@@ -1,4 +1,4 @@
-# APIpick Telegram Phone Checker - Full API Reference
+# apipick Telegram Phone Checker - Full API Reference
 
 **Base URL:** `https://www.apipick.com`
 **Authentication:** All requests require `x-api-key: YOUR_API_KEY` header.
